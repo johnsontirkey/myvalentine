@@ -1,2 +1,16 @@
-A playful React Valentine proposal app where “NO” is not really an option.
-Includes moving buttons, escalating reactions, screen shake, sound effects, animated love letters, and a final confetti celebration. Built for sharing and guaranteed smiles.
+# 💘 Valentine Proposal Web App 💘
+
+A playful, interactive Valentine proposal built with **React**, where saying **“NO” is… complicated** 😈  
+Designed as a fun, shareable web experience that escalates reactions until destiny wins.
+
+## Features
+
+- 💖 Interactive **YES / NO** proposal flow
+- 🏃‍♂️ “NO” button that dodges clicks and changes responses
+- 📈 YES button grows bigger with every NO
+- 🎉 Confetti celebration on acceptance
+- ⌨️ Typewriter-style love letter reveal
+- 🎻 Sad violin sound effects on NO
+- 📳 Mobile-friendly haptic-style feedback (iOS & Android friendly)
+- 📱 Responsive design (works on desktop & mobile)
+- 🔗 Shareable route using React Router
